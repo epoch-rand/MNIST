@@ -15,6 +15,8 @@ Abstract: *The MNIST handwritten digit classification problem is a standard data
 
 ### Evaluation metrics
 
+![alt text](https://github.com/epoch-rand/MNIST/blob/main/docs/training_results.png?raw=true)
+
 ### Requirements
 
 - Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.
