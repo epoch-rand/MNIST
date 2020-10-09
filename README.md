@@ -5,7 +5,7 @@ Project ID: bjR42WW1
 ![alt text](https://github.com/epoch-rand/MNIST/blob/main/mnist_dataset.png?raw=true)
 
 #### MNIST Handwriting Classification Tool - Tensorflow 2.x
-Abstract: *The MNIST handwritten digit classification problem is a standard dataset used in computer vision and deep learning. Although the dataset is effectively solved, it can be used as the basis for learning and practicing how to develop, evaluate, and use convolutional deep learning neural networks for image classification.*
+Abstract: *The MNIST handwritten digit classification problem is a standard dataset used in computer vision and deep learning. Although the dataset is effectively solved, the dataset itself remains useful to the research community, providing a simple sanity check for new methods: if it doesn't work on MNIST, it doesn't work anywhere.*
 
 ### Packages
 
