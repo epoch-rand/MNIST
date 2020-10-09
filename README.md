@@ -13,8 +13,6 @@ Abstract: *The MNIST handwritten digit classification problem is a standard data
 
 ### Training
 
-### Inference
-
 ### Evaluation metrics
 
 ### Requirements
