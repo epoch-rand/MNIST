@@ -11,6 +11,12 @@ Abstract: *The MNIST handwritten digit classification problem is a standard data
 
 `os` `numpy` `tensorflow2.x`
 
+### Training
+
+### Inference
+
+### Evaluation metrics
+
 ### Requirements
 
 - Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.
