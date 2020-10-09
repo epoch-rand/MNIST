@@ -21,6 +21,9 @@ python train.py
 
 ![alt text](https://github.com/epoch-rand/MNIST/blob/main/docs/training_results.png?raw=true)
 
+Accuracy: 99.54%
+Loss: 0.0129
+
 ### Requirements
 
 - Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.
