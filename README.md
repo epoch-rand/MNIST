@@ -13,6 +13,9 @@ Abstract: *The MNIST handwritten digit classification problem is a standard data
 
 ### Training
 
+```python
+python train.py```
+
 ### Evaluation metrics
 
 ![alt text](https://github.com/epoch-rand/MNIST/blob/main/docs/training_results.png?raw=true)
