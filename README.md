@@ -9,7 +9,7 @@ Abstract: *The MNIST handwritten digit classification problem is a standard data
 
 ### Packages
 
-`os` `numpy` `matplotlib` `tensorflow2.x`
+`os` `numpy` `tensorflow2.x`
 
 ### Requirements
 
