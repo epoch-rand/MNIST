@@ -25,3 +25,7 @@ python train.py
 
 - Both Linux and Windows are supported. Linux is recommended for performance and compatibility reasons.
 - 64-bit Python 3.7.9 installation. We recommend Anaconda3 with numpy 1.19.1 or newer.
+
+### Acknowledgements 
+
+More details about the dataset, including algorithms that have been tried on it and their levels of success, can be found at http://yann.lecun.com/exdb/mnist/index.html. The dataset is made available under a Creative Commons Attribution-Share Alike 3.0 license.
