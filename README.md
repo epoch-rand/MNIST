@@ -1,6 +1,6 @@
 # MNIST
 
-Project ID: bjR42WW1
+**Project ID:** bjR42WW1
 
 ![alt text](https://github.com/epoch-rand/MNIST/blob/main/docs/mnist_sample.png?raw=true)
 
