@@ -21,8 +21,8 @@ python train.py
 
 ![alt text](https://github.com/epoch-rand/MNIST/blob/main/metrics/training_results.png?raw=true)
 
--**Accuracy:** 99.62%
--**Loss:** 0.0128
+**Accuracy:** 99.62% <br/>
+**Loss:** 0.0128
 
 ### Requirements
 
