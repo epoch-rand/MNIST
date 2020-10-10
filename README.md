@@ -19,7 +19,7 @@ python train.py
 
 ### Evaluation metrics
 
-![alt text](https://github.com/epoch-rand/MNIST/blob/main/docs/training_results.png?raw=true)
+![alt text](https://github.com/epoch-rand/MNIST/blob/main/metrics/training_results.png?raw=true)
 
 Accuracy: 99.54%
 Loss: 0.0129
